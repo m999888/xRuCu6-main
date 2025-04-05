@@ -141,3 +141,7 @@ IP-CIDR6, 2402:4e00:1200:ed00:0:9089:6dac:96b6/128, no-resolve
 # 字节跳动
 DOMAIN, ad.zijieapi.com
 DOMAIN, -ad-sign.byteimg.com
+# 反诈
+IP-CIDR,120.76.141.58/32
+
+
